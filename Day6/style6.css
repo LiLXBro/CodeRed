@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Dancing+Script:wght@400..700&family=Libre+Franklin:ital,wght@0,100..900;1,100..900&display=swap');
+* {
+    background-color:#d9b99b;
+}
+#first{
+    font-family: "Bebas Neue","Dancing Script", cursive;
+    text-align: center;
+    text-decoration:underline ;
+    text-decoration-color: mediumorchid;
+    color: red;
+    background-color: #cfcfa4c3;
+    margin: 0;
+    padding: 10px;
+    border: 25px;
+    height: 66px;
+    /* width: 180px; */
+    box-sizing: border-box;
+}
+#second{
+    text-transform: uppercase;
+    font-family: "Libre Franklin", sans-serif;
+    font-weight:bold ;
+    font-size: 26px;
+    text-indent: 12px;
+    line-height: 3;
+}
+#third{
+    font-family: "Dancing Script";
+    font-style: italic;
+    font-size: 23px;
+    text-align: center;
+}
