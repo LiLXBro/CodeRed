@@ -8,6 +8,7 @@
     background-color: white;
 }
 .parent{
+    box-shadow: 10px 10px 15px rgb(162, 161, 161);
     position: relative;
     top: 20vh;
     left: 40vw;
@@ -79,7 +80,7 @@ img{
     text-align: justify;
     width: 100px;
     height: 20px;
-    border: 1px solid rgb(218, 218, 218);
+    border: 1px solid rgb(29, 158, 238);
     border-radius: 35px;
     text-align: center;
     font-family: Poppins;
